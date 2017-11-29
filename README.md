@@ -46,5 +46,5 @@ PostgreSQL 是全球最先進與穩定的開源資料庫系統，亦是目前公
 
 
 <p align="center">
-  <img src="https://github.com/twoss-io/PostgreSQL-Co-Lab/blob/master/img/postgresql_intro1.png">
+  <img src="https://github.com/twoss-io/PostgreSQL-Co-Lab/blob/master/img/postgresql_intro2.png">
 </p>
